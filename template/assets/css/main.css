@@ -1000,6 +1000,7 @@ ul li > ul > li.active > a {
   background-image: url('../img/main_bg2.jpg');
   -webkit-background-size: cover;
   background-size: cover;
+  background-attachment: fixed;
   height: 90vh;
 }
 
